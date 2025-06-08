@@ -15,6 +15,9 @@ const config = {
             fallback: undefined,
             strict: false,
         }),
+        paths: {
+            base: '/teelair.github.io',
+        },
     },
 };
 
